@@ -7,7 +7,6 @@
     ],
     "license" : "MIT",
     "require": {
-        "php": "^5.6",
         "illuminate/support": "^5.4",
         "illuminate/container": "^5.4",
         "illuminate/database": "^5.4",
